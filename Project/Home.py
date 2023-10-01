@@ -1,6 +1,8 @@
 import streamlit as st
 from PIL import Image
 import base64
+import os
+print(os.getcwd())
 
 #set icon 
 st.set_page_config(
