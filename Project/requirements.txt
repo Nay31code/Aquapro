@@ -1,6 +1,4 @@
 streamlit
 pandas
 matplotlib
-sklearn.linear_model 
-sklearn.model_selection 
-sklearn.metrics 
+scikit-learn
