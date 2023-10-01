@@ -26,7 +26,7 @@ def set_background(png_file):
     ''' % bin_str
     st.markdown(page_bg_img, unsafe_allow_html=True) 
 
-image_path = 'C:/Users/A_R_T/Desktop/Project/plant.JPG'
+image_path = 'C:/Users/A_R_T/Desktop/Project/Aquapro/Project/plant.JPG'
 set_background(image_path)
 # set titile 
 st.markdown(
